@@ -1,0 +1,6 @@
+strategy,kappa,mean_error,rmse,es95,average_cost,turnover
+learned policy,0.000,0.0016,1.5280,3.5939,0.0000,2.5459
+Black--Scholes delta,0.000,0.0008,1.5070,3.5515,0.0000,2.5359
+learned policy,0.005,1.2300,2.0534,4.9666,1.1976,2.2967
+Black--Scholes delta,0.005,1.3527,2.0908,5.2191,1.3189,2.5359
+no trade,0.000,0.0507,15.5224,45.2694,0.0000,0.0000
